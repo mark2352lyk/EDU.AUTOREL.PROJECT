@@ -33,7 +33,7 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <title>SNS | PUB</title>
+          <title>NEXT | DARKMODE</title>
         </Head>
         <body>
           <Main />
